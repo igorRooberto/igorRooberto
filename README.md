@@ -7,7 +7,7 @@
 </div>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
+  <img width="15" />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorRooberto/igorRooberto/output/github-contribution-grid-snake-dark.svg">
