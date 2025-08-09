@@ -17,8 +17,8 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorRooberto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
-<br>
+</p><br>
+
 ### 🤖 Linguagens e Tecnologias
 
  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
