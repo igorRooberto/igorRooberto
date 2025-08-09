@@ -6,4 +6,4 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorRooberto&hide_progress=true&theme=radical"/>
 </div>
 
-![snake gif](https://github.com/igorRooberto/igorRooberto/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/igorRooberto/igorRooberto/blob/output/github-snake-dark.svg)
