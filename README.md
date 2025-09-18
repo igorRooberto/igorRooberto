@@ -16,6 +16,9 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclu
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
+  <img align="center" alt="Hibernate" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
+  <img align="center" alt="Flyway" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flyway/flyway-original.svg">
+  <img align="center" alt="JPA" src="https://img.shields.io/badge/JPA-2C6927?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
 ---
