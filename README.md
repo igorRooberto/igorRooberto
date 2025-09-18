@@ -1,3 +1,9 @@
+# Igor Roberto Silva Lopes - Desenvolvedor Back-End
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/igor-roberto-7b057b365/ )
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/igorRooberto )
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:isilvalopp@gmail.com)
+
+
 ## Sobre Mim
 Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclusão prevista para o 1º semestre de 2029. Busco uma oportunidade de estágio como desenvolvedor Back-End **Java/Spring** para aplicar conhecimentos em APIs RESTful e banco de dados, contribuindo com soluções inovadoras e desenvolvendo habilidades técnicas em um ambiente profissional. Sou apaixonado por arquitetura limpa, APIs RESTful e construção de soluções eficientes para bancos de dados.
 
