@@ -28,4 +28,4 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclu
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorRooberto/igorRooberto/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igorRooberto/igorRooberto/output/github-contribution-grid-snake.svg">
 </picture>
-...
+
