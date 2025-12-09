@@ -35,6 +35,7 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclu
 * **Database Migrations:** Uso de **Flyway** para versionamento de esquema de banco de dados, garantindo consistência.
 * **Documentação Viva:** Implementação de **Swagger/OpenAPI** para facilitar o consumo da API.
 * **Arquitetura MVC:** Separação clara de responsabilidades (Model, View, Controller).
+* **Versionamento de Código:** Uso de **Git** para controle de histórico seguro e colaborativo.
 
 ---
 
