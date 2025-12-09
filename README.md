@@ -1,7 +1,10 @@
 # Igor Roberto Silva Lopes - Desenvolvedor Back-End
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/igor-roberto-7b057b365/ )
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/igorRooberto )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=isilvalopp@gmail.com)
+
+---
 
 ## Sobre Mim
 Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclusão prevista para o 1º semestre de 2029. Busco uma oportunidade de estágio como desenvolvedor Back-End *Java/Spring* para aplicar conhecimentos em APIs RESTful e banco de dados, contribuindo com soluções inovadoras e desenvolvendo habilidades técnicas em um ambiente profissional. Sou apaixonado por arquitetura limpa, APIs RESTful e construção de soluções eficientes para bancos de dados.
@@ -13,14 +16,27 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclu
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
 </p>
+
+---
+
+### 🧠 Conceitos e Metodologias
+
+* **Segurança e Autenticação:** Implementação de **Spring Security** para controle de acesso e proteção de endpoints.
+* **Autenticação Stateless:** Uso de **JWT (JSON Web Token)** para gerenciar sessões de forma segura e escalável em APIs REST.
+* **API RESTful:** Criação de APIs seguindo os padrões de mercado (verbos HTTP, status codes corretos).
+* **Database Migrations:** Uso de **Flyway** para versionamento de esquema de banco de dados, garantindo consistência.
+* **Documentação Viva:** Implementação de **Swagger/OpenAPI** para facilitar o consumo da API.
+* **Arquitetura MVC:** Separação clara de responsabilidades (Model, View, Controller).
 
 ---
 
