@@ -12,6 +12,13 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclu
 </p>
 
 ---
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorRooberto&show_icons=true&count_private=true&hide_border=true&title_color=3498db&icon_color=3498db&text_color=c9d1d9&bg_color=0d1117" alt="Elias de Souza github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorRooberto&layout=compact&hide_border=true&title_color=3498db&icon_color=3498db&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</div>
+
+---
 <div align="center">
  🤖 Linguagens e Tecnologias
 </div><br>
