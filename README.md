@@ -7,9 +7,9 @@
 ## Sobre Mim
 Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclusão prevista para o 2º semestre de 2028. Busco uma oportunidade de estágio como desenvolvedor Back-End *Java/Spring* para aplicar conhecimentos em APIs RESTful e banco de dados, contribuindo com soluções inovadoras e desenvolvendo habilidades técnicas em um ambiente profissional. Sou apaixonado por arquitetura limpa, APIs RESTful e construção de soluções eficientes para bancos de dados.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=520&lines=APIs+com+amor+e+documentadas;Banco+estruturado,+bug+quebrado;Clean+code+ou+nada" alt="Typing SVG" />
-</p>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3498db&size=30&center=true&vCenter=true&width=1000&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 
 ---
 
