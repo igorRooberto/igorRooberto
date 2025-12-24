@@ -12,13 +12,6 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclu
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3498db&size=30&center=true&vCenter=true&width=1000&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 
 ---
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorRooberto&show_icons=true&count_private=true&hide_border=true&title_color=3498db&icon_color=3498db&text_color=c9d1d9&bg_color=0d1117" alt="Igor Roberto github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorRooberto&layout=compact&hide_border=true&title_color=3498db&icon_color=3498db&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-</div>
-
----
 <div align="center">
  🤖 Linguagens e Tecnologias
 </div><br>
