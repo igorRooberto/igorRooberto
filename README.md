@@ -42,6 +42,21 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclu
 * **Versionamento de Código:** Uso de **Git** para controle de histórico seguro e colaborativo.
 
 ---
+<div align="center">
+  🚀 Atualmente Aprendendo
+</div><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-LOG?style=for-the-badge&logo=mockito&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD-005C0F?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
+</p>
+
+* **Arquitetura de Software:** Aprofundando em **Clean Architecture** e **Domain-Driven Design (DDD)** para criar sistemas desacoplados e manuteníveis (Foco em VOs, Entidades e Agregados).
+* **Qualidade de Código:** Escrita de testes unitários e de integração utilizando **JUnit 5** e **Mockito**.
+* **DevOps:** Iniciando estudos em **Docker** para containerização de aplicações Spring Boot.
+---
 
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorRooberto/igorRooberto/output/github-contribution-grid-snake-dark.svg">
