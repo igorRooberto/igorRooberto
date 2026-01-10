@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=igorrdev.java@gmail.com)
 
 ## Sobre Mim
-Estudante de Engenharia de Software na UNICEPLAC - DF (2º semestre), com conclusão prevista para o 2º semestre de 2028. Busco uma oportunidade de estágio como desenvolvedor Back-End *Java/Spring* para aplicar conhecimentos em APIs RESTful e banco de dados, contribuindo com soluções inovadoras e desenvolvendo habilidades técnicas em um ambiente profissional. Sou apaixonado por arquitetura limpa, APIs RESTful e construção de soluções eficientes para bancos de dados.
+Estudante de Engenharia de Software na UNICEPLAC - DF (3º semestre), com conclusão prevista para o 2º semestre de 2028. Busco uma oportunidade de estágio como desenvolvedor Back-End *Java/Spring* para aplicar conhecimentos em APIs RESTful e banco de dados, contribuindo com soluções inovadoras e desenvolvendo habilidades técnicas em um ambiente profissional. Sou apaixonado por arquitetura limpa, APIs RESTful e construção de soluções eficientes para bancos de dados.
 
 </div>
 
