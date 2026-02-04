@@ -9,7 +9,7 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (3º semestre), com conclu
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3498db&size=30&center=true&vCenter=true&width=1000&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3498db&size=30&center=true&vCenter=true&width=1000&lines=IGOR+ROBERTO;SOFTWARE+DEVELOPER;BACKEND+JAVA+DEVELOPER;SPRING+BOOT)](https://git.io/typing-svg)
 
 ---
 <div align="center">
