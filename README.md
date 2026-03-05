@@ -49,23 +49,5 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (3º semestre), com conclu
 * **Versionamento de Código:** Uso de **Git** para controle de histórico seguro e colaborativo.
 * **Containerização com Docker:** Criação de ambientes isolados e imutáveis, garantindo que a aplicação execute com consistência em qualquer ambiente e resolvendo o problema de "na minha máquina funciona".
 ---
-<div align="center">
-  🚀 Atualmente Aprendendo
-</div><br>
-<p align="center">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-LOG?style=for-the-badge&logo=mockito&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/DDD-005C0F?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /
-</p>
 
-* **Arquitetura de Software:** Aprofundando em **Clean Architecture** e **Domain-Driven Design (DDD)** para criar sistemas desacoplados e manuteníveis (Foco em VOs, Entidades e Agregados).
-* **Qualidade de Código:** Escrita de testes unitários e de integração utilizando **JUnit 5** e **Mockito**.
-* **Cloud Computing:** Aprofundando em serviços da **AWS** (VPC, EC2, S3) e preparando para a certificação **CLF-C02**.
-* **Orquestração:** Estudando **Kubernetes** para gerenciar clusters e escalabilidade de aplicações.
-* **Linguagens:** Aprendendo **Go (Golang)** para entender diferentes paradigmas de concorrência e performance.
----
 
