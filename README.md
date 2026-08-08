@@ -38,16 +38,6 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (4º semestre), com conclu
 
 ---
 
-### 🧠 Conceitos e Metodologias
 
-* **Segurança e Autenticação:** Implementação de **Spring Security** para controle de acesso e proteção de endpoints.
-* **Autenticação Stateless:** Uso de **JWT (JSON Web Token)** para gerenciar sessões de forma segura e escalável em APIs REST.
-* **API RESTful:** Criação de APIs seguindo os padrões de mercado (verbos HTTP, status codes corretos).
-* **Database Migrations:** Uso de **Flyway** para versionamento de esquema de banco de dados, garantindo consistência.
-* **Documentação Viva:** Implementação de **Swagger/OpenAPI** para facilitar o consumo da API.
-* **Arquitetura MVC:** Separação clara de responsabilidades (Model, View, Controller).
-* **Versionamento de Código:** Uso de **Git** para controle de histórico seguro e colaborativo.
-* **Containerização com Docker:** Criação de ambientes isolados e imutáveis, garantindo que a aplicação execute com consistência em qualquer ambiente e resolvendo o problema de "na minha máquina funciona".
----
 
 
