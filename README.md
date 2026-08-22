@@ -38,6 +38,10 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (4º semestre), com conclu
 
 ---
 
+### Projetos Destacados
+
+* **[EcoPath API](https://github.com/igorRooberto/eco-path-api)** - Projeto Pessoal (Em desenvolvimento) API RESTful desenvolvida em Java e Spring Boot para cálculo de rotas ecológicas, integrando-se com as APIs externas **OpenRouteService** (geolocalização) e **Open-Meteo** (dados meteorológicos em tempo real). Conta com persistência de dados em **PostgreSQL** e orquestração de ambiente via **Docker**.
+
 
 
 
