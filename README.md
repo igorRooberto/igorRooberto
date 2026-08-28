@@ -33,10 +33,6 @@ Para os meus desenvolvimentos diários, utilizo as seguintes tecnologias:
         <br>Spring Boot
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
