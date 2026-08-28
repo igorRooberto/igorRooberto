@@ -1,7 +1,6 @@
 # Igor  - Desenvolvedor Back-End
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/igor-roberto-7b057b365/ )
-[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/igorRooberto )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=igorrdev.java@gmail.com)
 
 ## Sobre Mim
