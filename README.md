@@ -11,9 +11,7 @@ Estudante de Engenharia de Software na UNICEPLAC - DF (4º semestre), com conclu
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3498db&size=30&center=true&vCenter=true&width=1000&lines=IGOR+ROBERTO;SOFTWARE+DEVELOPER;BACKEND+JAVA+DEVELOPER;SPRING+BOOT)](https://git.io/typing-svg)
 
 ---
-###  Linguagens e Ferramentas
 
-Para os meus desenvolvimentos diários, utilizo as seguintes tecnologias:
 
 <div align="center">
   <table>
